@@ -54,3 +54,7 @@ body {
     top: 5px;
     left: 25%;
 }
+
+#error {
+    color:blue;
+}
